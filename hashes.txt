@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Abrazo roto
+
+This log tracks the cryptographic history and versioning for the song **Abrazo roto** (abrazo-roto).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T21:14:22.455016 | `v1` | `e754562b98ddb7758ea2b5aa398c67a410199def1592a8d51b768477ebad43d0` | `f95de6d0f3d625b13b8f8e70292d6e1f6d6b32984d6fa3da55834cf6d2f8fa52` | `2026-06-18_abrazo-roto-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
