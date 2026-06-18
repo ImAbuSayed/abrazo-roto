@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/abrazo-roto/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Abrazo roto](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-roto/) |
+| **Get License** | [Get a Licensing Quote for Abrazo roto](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-roto/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, tú sabes que esta noche no se duerme
+> Con esa mirada peligrosa tú me envuelves
+> Dejamos atrás las penas pa' que no te enfermes
+> Un abrazo roto es lo único que nos resuelve
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
